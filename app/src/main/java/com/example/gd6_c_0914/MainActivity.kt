@@ -1,4 +1,4 @@
-package com.example.localnotification
+package com.example.gd6_c_0914
 
 import android.app.NotificationChannel
 import android.app.NotificationManager
@@ -11,7 +11,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.NotificationCompat
 import androidx.core.app.NotificationManagerCompat
-import com.example.localnotification.databinding.ActivityMainBinding
+import com.example.gd6_c_0914.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

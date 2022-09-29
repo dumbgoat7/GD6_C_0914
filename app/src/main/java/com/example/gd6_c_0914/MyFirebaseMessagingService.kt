@@ -1,4 +1,4 @@
-package com.example.localnotification
+package com.example.gd6_c_0914
 
 import android.app.NotificationChannel
 import android.app.NotificationManager

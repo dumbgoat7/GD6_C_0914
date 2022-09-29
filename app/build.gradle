@@ -1,13 +1,14 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    id 'com.google.gms.google-services'
 }
 
 android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.localnotification"
+        applicationId "com.example.gd6_c_0914"
         minSdk 26
         targetSdk 32
         versionCode 1

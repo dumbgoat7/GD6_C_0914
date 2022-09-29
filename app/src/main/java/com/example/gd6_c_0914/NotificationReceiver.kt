@@ -1,4 +1,4 @@
-package com.example.localnotification
+package com.example.gd6_c_0914
 
 import android.content.BroadcastReceiver
 import android.content.Context
